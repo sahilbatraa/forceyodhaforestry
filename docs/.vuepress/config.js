@@ -2,8 +2,8 @@ module.exports = {
   title: 'ForceYodha',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
+  description: '',
+  logo: './assets/img/mylogo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
