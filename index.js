@@ -14,8 +14,12 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'About Us',
+        text: 'Tags',
         link: '/tag/',
+      },
+      {
+        text: 'About Us',
+        link: '/about',
       },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
