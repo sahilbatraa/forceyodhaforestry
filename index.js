@@ -14,7 +14,7 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'Tags',
+        text: 'About Us',
         link: '/tag/',
       },
     ],
