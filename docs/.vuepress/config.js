@@ -8,17 +8,11 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
+      name: 'Sahil Batra',
+      avatar: '/assets/img/sahil_batra.png',
+      link: 'https://twitter.com/sahilbatraa18',
       linktext: 'Follow',
-      },
-      {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
-      },
+      }
     ],
     footer: {
       contact: [
