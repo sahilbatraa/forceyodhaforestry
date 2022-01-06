@@ -22,7 +22,7 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: 'https://mtxb2b.com',
+          link: '#',
         },
         {
           type: 'github',
@@ -38,7 +38,7 @@ module.exports = {
         },
         {
           type: 'linkedin',
-          link: '#',
+          link: 'https://www.linkedin.com/in/sahil-batra-969a0831/',
         },
         {
           type: 'mail',
@@ -54,7 +54,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: 'https://twitter.com/sahilbatraa18',
         },
         {
           type: 'web',
