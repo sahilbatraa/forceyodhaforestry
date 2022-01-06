@@ -86,18 +86,10 @@ export default {
   methods: {
     getIconComponentName(contactType) {
       switch (contactType) {
-        case 'github':
-          return 'GithubIcon'
-        case "facebook":
-          return "FacebookIcon";
         case "twitter":
           return "TwitterIcon";
-        case "instagram":
-          return "InstagramIcon";
         case "linkedin":
           return "LinkedinIcon";
-        case "youtube":
-          return "YoutubeIcon";
         default:
           return "";
       }
