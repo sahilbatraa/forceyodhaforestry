@@ -21,4 +21,4 @@ I will be starting a Youtube Channel soon and will be posting a lot of videos th
 
 Feel Free to connect with me over Social Media and let me know what blogs or problems I can help you to solve and I will post it in a form of a Blog or Video.
 
-    <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![](/assets/img/twitternew.jpeg)
