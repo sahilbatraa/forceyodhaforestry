@@ -22,7 +22,7 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://mtxb2b.com',
         },
         {
           type: 'github',
