@@ -20,5 +20,3 @@ I am happy to share that I am starting ForceYodha, a place where everyone in the
 I will be starting a Youtube Channel soon and will be posting a lot of videos that will help you to gain Expertise on Salesforce.
 
 Feel Free to connect with me over Social Media and let me know what blogs or problems I can help you to solve and I will post it in a form of a Blog or Video.
-
-![](/assets/img/twitternew.jpeg)
