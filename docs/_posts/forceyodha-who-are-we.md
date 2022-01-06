@@ -21,4 +21,4 @@ I will be starting a Youtube Channel soon and will be posting a lot of videos th
 
 Feel Free to connect with me over Social Media and let me know what blogs or problems I can help you to solve and I will post it in a form of a Blog or Video.
 
-![](/assets/img/twitternew.jpeg)
+![](/assets/img/twitternew.jpeg =50*50)
