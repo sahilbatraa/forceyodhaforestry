@@ -3,7 +3,7 @@ tags:
 - 'Introduction '
 - " Trailblazer"
 title: ForceYodha - Who are we ?
-date: 2022-01-28 00:00:00 +0530
+date: 2022-01-28T00:00:00.000+05:30
 author: Sahil Batra
 featuredimg: "/assets/img/mylogo.png"
 summary: A journey from a Java Developer to a Trailblazer.
@@ -21,4 +21,4 @@ I will be starting a Youtube Channel soon and will be posting a lot of videos th
 
 Feel Free to connect with me over Social Media and let me know what blogs or problems I can help you to solve and I will post it in a form of a Blog or Video.
 
-![](/assets/img/twitternew.jpeg =50*50)
+![](/assets/img/twitternew.jpeg)
